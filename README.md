@@ -1,2 +1,2 @@
-# python-backgroun-removal-system
-python backgroun removal system
+# Real-Time_Background_remover
+Using OpenCV and CVzone
